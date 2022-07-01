@@ -1,3 +1,3 @@
-# Collegate Level and Personal Projects
+# Presentations
 
-A culmination of my personal and educational experiences and projects while learn Java, C++, and Python
+My educational and professional presentations encompassing a large arrray of topics
