@@ -1,3 +1,3 @@
-# Collegate Level and Personal Porjects
+# C++ Projects
 
-A culmination of my personal and educational experiences and projects while learn Java, C++, and Python
+Dedicated to C++ projects encompassing personal, educational, and professional accomplishments.
